@@ -1,0 +1,1 @@
+放到Navicat Premium 11.0.9安装目录下(注意关闭navicat.exe程序)。运行PatchNavicat即可。
